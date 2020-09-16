@@ -1,2 +1,2 @@
 # control_repo
-Control repo for puppet training
+This is a README
